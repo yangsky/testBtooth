@@ -1,13 +1,13 @@
 //
 //  constant.h
-//  ZHBLE
+//  BTF
 //
 //  Created by aimoke on 15/7/20.
 //  Copyright (c) 2015年 zhuo. All rights reserved.
 //
 
-#ifndef ZHBLE_constant_h
-#define ZHBLE_constant_h
+#ifndef BTF_constant_h
+#define BTF_constant_h
 
 
 #endif

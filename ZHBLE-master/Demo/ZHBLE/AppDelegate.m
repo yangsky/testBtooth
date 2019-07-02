@@ -1,13 +1,15 @@
 //
 //  AppDelegate.m
-//  ZHBLE
+//  BTF
 //
 //  Created by aimoke on 15/7/17.
 //  Copyright (c) 2015年 zhuo. All rights reserved.
 //
 
 #import "AppDelegate.h"
-#import "ZHBLE.h"
+#import "BTF.h"
+#import <Fabric/Fabric.h>
+#import <Crashlytics/Crashlytics.h>
 
 @interface AppDelegate ()
 
@@ -17,7 +19,8 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    [ZHBLECentral sharedZHBLECentral];
+    [Fabric with:@[[Crashlytics class]]];
+    [BTFCentral sharedBTFCentral];
     // Override point for customization after application launch.
     return YES;
 }
