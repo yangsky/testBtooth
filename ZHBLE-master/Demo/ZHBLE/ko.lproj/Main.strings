@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "B5o-7E-a8B"; */
+"B5o-7E-a8B.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Tda-Bx-4Er"; */
+"Tda-Bx-4Er.text" = "Title";
+
+/* Class = "UILabel"; text = "Peripheral"; ObjectID = "lRK-wr-OVE"; */
+"lRK-wr-OVE.text" = "Peripheral";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "m4e-vU-bwU"; */
+"m4e-vU-bwU.text" = "Title";
+
+/* Class = "UILabel"; text = "Central"; ObjectID = "mYX-fr-Py7"; */
+"mYX-fr-Py7.text" = "Central";
+
+/* Class = "UITableViewController"; title = "扫描"; ObjectID = "qoj-Oo-zOM"; */
+"qoj-Oo-zOM.title" = "扫描";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "rDV-Xm-KCs"; */
+"rDV-Xm-KCs.text" = "Detail";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "rQo-kn-dQu"; */
+"rQo-kn-dQu.text" = "Subtitle";
